@@ -1,0 +1,16 @@
+{
+  "name": "simplecalc",
+  "version": "1.0.0",
+  "description": "simple calculator built with tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "keywords": [
+    "javascript",
+    "calculator",
+    "tdd"
+  ],
+  "author": "dhkaneda",
+  "license": "MIT"
+}
