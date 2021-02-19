@@ -12,5 +12,9 @@
     "tdd"
   ],
   "author": "dhkaneda",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0"
+  }
 }
